@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Web local</title>
 
-    <style> 
+<style> 
             .paraSpecial{
 
                     color: grey;
@@ -16,21 +16,21 @@
 
 
 
-    </style>
+</style>
 
 </head>
 <body>
     
-    <h1>TDs web </h1>
+ <h1>TDs web </h1>
 
 
-    <ul>
+ <ul>
         <li> <a href="mentions-legales1.html">Mentions légales</a></li>
         <li><a href="pate-a-crêpe.html">recette pâte a crêpe</a></li>
         <li><a href="statut-juridique.html">Statuts-juridique</a></li>
         <li><a href="Web-arena-about-us.html">web arena about us </a></li>
         <li><a href="Web-arena-Blog.html">web arena blog</a></li>
-    </ul>
+</ul>
 
 
 
