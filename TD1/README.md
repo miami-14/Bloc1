@@ -90,6 +90,8 @@ Par conséquences pour la navigation web :
 - Le domaine de deuxième niveau (.com)
 - Le répertoire (/contact)
 
+![Capture d'écran 2024-10-14 181916](https://github.com/user-attachments/assets/34d312fd-7798-4989-82c0-cf1c5bb1fea7)
+
 
 # Code Status 
 ```
