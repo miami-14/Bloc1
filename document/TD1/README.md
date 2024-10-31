@@ -6,60 +6,15 @@ la méthode GET doivent uniquement être utilisées afin de récupérer des donn
 
 
 #  Comparaison méthodes
-<div>
-<table>
-  
-  <thead>
-    <tr>
-      <th scope="col">GET</th>
-      <th scope="col">POST</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
- <thead>
-  <tr>
-  
- <th scope="row">Visible pour l’utilisateur dans le champ d’adresse</th>
- <td> Invisible pour l’utilisateur </td>
- 
-  </tr>
-  </thead>
-
-  <tr>
-    <th scope="row">Les paramètres de l’URL sont stockés en même temps que l’URL  </th>
- <td> L’URL est enregistrée sans paramètres URL </td>
-    </tr>
-  </thead> 
-
-   <tr>
-    <th scope="row"> Les paramètres de l’URL sont stockés sans chiffrement   </th>
- <td> Les paramètres de l’URL ne sont pas enregistrés automatiquement  </td>
-    </tr>
-  </thead> 
-
-  <tr>
-    <th scope="row"> Les paramètres de l’URL ne sont pas envoyés à nouveau   </th>
- <td> Le navigateur avertit que les données du formulaire doivent être renvoyées  </td>
-    </tr>
-  </thead> 
-
-  
-  <tr>
-    <th scope="row"> Caractères ASCII uniquement </th>
- <td> Caractères ASCII mais également données binaires </td>
-    </tr>
-  </thead> 
-
-  
-  <tr>
-    <th scope="row">  	Limitée - longueur maximale de l’URL à 2 048 caractères </th>
- <td> Illimitée  </td>
-    </tr>
-  </thead> 
-
-  </table>
-</div>
+|GET|POST|
+|---|---|
+|Visible pour l’utilisateur dans le champ d’adresse|Invisible pour l’utilisateur|
+|Les paramètres de l’URL sont stockés en même temps que l’URL|L’URL est enregistrée sans paramètres URL|
+|Les paramètres de l’URL sont stockés sans chiffrement|Les paramètres de l’URL ne sont pas enregistrés automatiquement|
+|Les paramètres de l’URL sont stockés sans chiffrement |Les paramètres de l’URL ne sont pas enregistrés automatiquement|
+|Les paramètres de l’URL ne sont pas envoyés à nouveau|Le navigateur avertit que les données du formulaire doivent être renvoyées|
+|Caractères ASCII uniquement|Caractères ASCII mais également données binaires|
+|Limitée - longueur maximale de l’URL à 2 048 caractères|Illimitée|  
 
 #  Extensible
 ```
