@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about computers and I do a lot of p
 * Learn all languages to put them to work for people
 * Have my dipolome
   
-- [TD1](document/TD1/README)
+- [TD1](document/TD1/README.md)
 
 - [TD2 et TD3](docs/)
 
