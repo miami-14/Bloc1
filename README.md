@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I'm passionate about computers and I do a lot of p
 * Have my dipolome
   
 [TD1](document/)
-[TD2 et TD3](doc/)
+[TD2 et TD3](docs/)
 
 
