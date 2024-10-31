@@ -7,9 +7,10 @@ la méthode GET doivent uniquement être utilisées afin de récupérer des donn
 
 #  Comparaison méthodes
 |GET|POST|
-|---|---|
-|Visible pour l’utilisateur dans le champ d’adresse|Invisible pour l’utilisateur|
 
+|---|---|
+
+|Visible pour l’utilisateur dans le champ d’adresse|Invisible pour l’utilisateur|
 |Les paramètres de l’URL sont stockés en même temps que l’URL|L’URL est enregistrée sans paramètres URL|
 |Les paramètres de l’URL sont stockés sans chiffrement|Les paramètres de l’URL ne sont pas enregistrés automatiquement|
 |Les paramètres de l’URL sont stockés sans chiffrement |Les paramètres de l’URL ne sont pas enregistrés automatiquement|
